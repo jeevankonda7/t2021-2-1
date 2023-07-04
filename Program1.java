@@ -2,7 +2,7 @@ package org.prepare;
 
 import java.util.Scanner;
 
-public class Problem1 {
+public class Program1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the first value:");
