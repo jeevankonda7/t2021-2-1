@@ -2,7 +2,7 @@ package org.prepare;
 
 import java.util.Scanner;
 
-public class Problem3 {
+public class Program3 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter any value:");
